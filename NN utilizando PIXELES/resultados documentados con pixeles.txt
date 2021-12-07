@@ -1,0 +1,243 @@
+'''
+max iter 100
+'''
+'''
+r.capa1 = 784
+r.capa2 = 75
+r.capa3 = 12
+Capa 1:  (75, 785)
+Capa 2:  (12, 76)
+Aciertos:  8071 ; Porcentaje:  77.23444976076556
+Fallos:  2379 ; Porcentaje:  22.76555023923445
+
+Aciertos:  9168 ; Porcentaje:  87.73205741626793
+Fallos:  1282 ; Porcentaje:  12.267942583732056
+
+Aciertos:  8280 ; Porcentaje:  79.23444976076554
+Fallos:  2170 ; Porcentaje:  20.76555023923445
+
+Aciertos:  9103 ; Porcentaje:  87.11004784688996
+Fallos:  1347 ; Porcentaje:  12.889952153110048
+
+Aciertos:  9529 ; Porcentaje:  91.18660287081339
+Fallos:  921 ; Porcentaje:  8.813397129186603
+
+Aciertos:  9448 ; Porcentaje:  90.41148325358851
+Fallos:  1002 ; Porcentaje:  9.588516746411484
+
+Aciertos:  9469 ; Porcentaje:  90.61244019138755
+Fallos:  981 ; Porcentaje:  9.38755980861244
+
+Aciertos:  9489 ; Porcentaje:  90.80382775119618
+Fallos:  961 ; Porcentaje:  9.196172248803828
+
+Aciertos:  9514 ; Porcentaje:  91.04306220095694
+Fallos:  936 ; Porcentaje:  8.956937799043061
+
+Aciertos:  9147 ; Porcentaje:  87.5311004784689
+Fallos:  1303 ; Porcentaje:  12.4688995215311
+'''
+
+'''
+r.capa1 = 784
+r.capa2 = 200
+r.capa3 = 150
+r.capa4 = 12
+
+Capa 1:  (200, 785)
+Capa 2:  (150, 201)
+Capa 3:  (12, 151)
+Aciertos:  9079 ; Porcentaje:  86.88038277511961
+Fallos:  1371 ; Porcentaje:  13.119617224880384
+
+Aciertos:  9480 ; Porcentaje:  90.7177033492823
+Fallos:  970 ; Porcentaje:  9.282296650717702
+
+Aciertos:  9267 ; Porcentaje:  88.67942583732057
+Fallos:  1183 ; Porcentaje:  11.320574162679426
+
+Aciertos:  7982 ; Porcentaje:  76.38277511961724
+Fallos:  2468 ; Porcentaje:  23.617224880382775
+
+Aciertos:  9281 ; Porcentaje:  88.8133971291866
+Fallos:  1169 ; Porcentaje:  11.186602870813397
+
+Aciertos:  8106 ; Porcentaje:  77.56937799043062
+Fallos:  2344 ; Porcentaje:  22.43062200956938
+
+Aciertos:  9055 ; Porcentaje:  86.65071770334927
+Fallos:  1395 ; Porcentaje:  13.349282296650719
+'''
+
+''' 14 min
+r.capa1 = 784
+r.capa2 = 200
+r.capa3 = 150
+r.capa4 = 100
+r.capa5 = 12
+Capa 1:  (200, 785)
+Capa 2:  (150, 201)
+Capa 3:  (100, 151)
+Capa 4:  (12, 101)
+Aciertos:  8413 ; Porcentaje:  80.50717703349282
+Fallos:  2037 ; Porcentaje:  19.492822966507177
+
+Aciertos:  8387 ; Porcentaje:  80.25837320574163
+Fallos:  2063 ; Porcentaje:  19.741626794258373
+
+Aciertos:  7814 ; Porcentaje:  74.77511961722489
+Fallos:  2636 ; Porcentaje:  25.224880382775122
+
+Aciertos:  5492 ; Porcentaje:  52.55502392344498
+Fallos:  4958 ; Porcentaje:  47.44497607655502
+'''
+
+''' 1:09
+r.capa1 = 784
+r.capa2 = 144
+r.capa3 = 72
+r.capa4 = 36
+r.capa5 = 12
+Capa 1:  (144, 785)
+Capa 2:  (72, 145)
+Capa 3:  (36, 73)
+Capa 4:  (12, 37)
+Aciertos:  8398 ; Porcentaje:  80.36363636363636
+Fallos:  2052 ; Porcentaje:  19.636363636363637
+'''
+
+'''
+r.capa1 = 784
+r.capa2 = 600
+r.capa3 = 400
+r.capa4 = 300
+r.capa5 = 12
+
+Capa 1:  (600, 785)
+Capa 2:  (400, 601)
+Capa 3:  (300, 401)
+Capa 4:  (12, 301)
+Aciertos:  8182 ; Porcentaje:  78.29665071770336
+Fallos:  2268 ; Porcentaje:  21.70334928229665
+'''
+
+'''
+r.capa1 = 784
+r.capa2 = 75
+r.capa3 = 36
+r.capa4 = 24
+r.capa5 = 12
+Capa 1:  (75, 785)
+Capa 2:  (36, 76)
+Capa 3:  (24, 37)
+Capa 4:  (12, 25)
+Aciertos:  1924 ; Porcentaje:  18.411483253588518
+Fallos:  8526 ; Porcentaje:  81.58851674641149
+Aciertos:  7667 ; Porcentaje:  73.36842105263159
+Fallos:  2783 ; Porcentaje:  26.63157894736842
+Aciertos:  8019 ; Porcentaje:  76.73684210526316
+Fallos:  2431 ; Porcentaje:  23.263157894736842
+Aciertos:  7818 ; Porcentaje:  74.8133971291866
+Fallos:  2632 ; Porcentaje:  25.186602870813395
+'''
+
+'''
+r.capa1 = 784
+r.capa2 = 24
+r.capa3 = 18
+r.capa4 = 16
+r.capa5 = 12
+Capa 1:  (24, 785)
+Capa 2:  (18, 25)
+Capa 3:  (16, 19)
+Capa 4:  (12, 17)
+Aciertos:  2372 ; Porcentaje:  22.698564593301434
+Fallos:  8078 ; Porcentaje:  77.30143540669856
+Aciertos:  1135 ; Porcentaje:  10.861244019138756
+Fallos:  9315 ; Porcentaje:  89.13875598086123
+Aciertos:  3793 ; Porcentaje:  36.29665071770335
+Fallos:  6657 ; Porcentaje:  63.70334928229665
+Aciertos:  2024 ; Porcentaje:  19.36842105263158
+Fallos:  8426 ; Porcentaje:  80.63157894736842
+'''
+
+
+''' 200 iter
+r.capa1 = 784
+r.capa2 = 100
+r.capa3 = 40
+r.capa4 = 12
+Capa 1:  (100, 785)
+Capa 2:  (40, 101)
+Capa 3:  (12, 41)
+Aciertos:  9534 ; Porcentaje:  91.23444976076554
+Fallos:  916 ; Porcentaje:  8.76555023923445
+'''
+
+'''
+
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (128, 785)
+Capa 2:  (64, 129)
+Capa 3:  (12, 65)
+Aciertos:  9861 ; Porcentaje:  94.36363636363636
+Fallos:  589 ; Porcentaje:  5.636363636363637
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (256, 785)
+Capa 2:  (128, 257)
+Capa 3:  (12, 129)
+Aciertos:  9754 ; Porcentaje:  93.33971291866028
+Fallos:  696 ; Porcentaje:  6.660287081339714
+
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (256, 785)
+Capa 2:  (64, 257)
+Capa 3:  (12, 65)
+Aciertos:  9958 ; Porcentaje:  95.29186602870814
+Fallos:  492 ; Porcentaje:  4.708133971291866
+'''
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (256, 785)
+Capa 2:  (32, 257)
+Capa 3:  (12, 33)
+Aciertos:  9472 ; Porcentaje:  90.64114832535886
+Fallos:  978 ; Porcentaje:  9.358851674641148
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (512, 785)
+Capa 2:  (128, 513)
+Capa 3:  (12, 129)
+Aciertos:  9956 ; Porcentaje:  95.27272727272728
+Fallos:  494 ; Porcentaje:  4.7272727272727275
+...
+Capa 1:  (512, 785)
+Capa 2:  (32, 513)
+Capa 3:  (12, 33)
+Aciertos:  9322 ; Porcentaje:  89.20574162679425
+Fallos:  1128 ; Porcentaje:  10.794258373205741
+'''
+max iter = 300
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (256, 785)
+Capa 2:  (64, 257)
+Capa 3:  (12, 65)
+Aciertos:  10086 ; Porcentaje:  96.51674641148325
+Fallos:  364 ; Porcentaje:  3.4832535885167464
+'''
+max iter =400
+Capa 1:  (256, 785)
+Capa 2:  (64, 257)
+Capa 3:  (12, 65)
+Aciertos:  10204 ; Porcentaje:  97.64593301435407
+Fallos:  246 ; Porcentaje:  2.354066985645933
+'''
+max iter = 600
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (256, 785)
+Capa 2:  (64, 257)
+Capa 3:  (12, 65)
+Aciertos:  10267 ; Porcentaje:  98.2488038277512
+Fallos:  183 ; Porcentaje:  1.7511961722488039

@@ -1,0 +1,184 @@
+# max iter 200
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (256, 37)
+Capa 2:  (64, 257)
+Capa 3:  (12, 65)
+Aciertos:  1009 ; Porcentaje:  9.655502392344498
+Fallos:  9441 ; Porcentaje:  90.34449760765551
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (256, 37)
+Capa 2:  (32, 257)
+Capa 3:  (12, 33)
+Aciertos:  7305 ; Porcentaje:  69.90430622009569
+Fallos:  3145 ; Porcentaje:  30.09569377990431
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (256, 37)
+Capa 2:  (128, 257)
+Capa 3:  (12, 129)
+Aciertos:  7831 ; Porcentaje:  74.9377990430622
+Fallos:  2619 ; Porcentaje:  25.062200956937797
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (128, 37)
+Capa 2:  (32, 129)
+Capa 3:  (12, 33)
+Aciertos:  4014 ; Porcentaje:  38.41148325358852
+Fallos:  6436 ; Porcentaje:  61.58851674641148
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (128, 37)
+Capa 2:  (64, 129)
+Capa 3:  (12, 65)
+Aciertos:  8173 ; Porcentaje:  78.21052631578948
+Fallos:  2277 ; Porcentaje:  21.789473684210524
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (128, 37)
+Capa 2:  (32, 129)
+Capa 3:  (12, 33)
+Aciertos:  7938 ; Porcentaje:  75.96172248803828
+Fallos:  2512 ; Porcentaje:  24.038277511961724
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (64, 37)
+Capa 2:  (32, 65)
+Capa 3:  (12, 33)
+Aciertos:  8307 ; Porcentaje:  79.49282296650718
+Fallos:  2143 ; Porcentaje:  20.507177033492823
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (64, 37)
+Capa 2:  (16, 65)
+Capa 3:  (12, 17)
+Aciertos:  6337 ; Porcentaje:  60.64114832535885
+Fallos:  4113 ; Porcentaje:  39.35885167464115
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (512, 37)
+Capa 2:  (128, 513)
+Capa 3:  (12, 129)
+Aciertos:  7292 ; Porcentaje:  69.7799043062201
+Fallos:  3158 ; Porcentaje:  30.220095693779903
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (256, 37)
+Capa 2:  (64, 257)
+Capa 3:  (12, 65)
+Aciertos:  5288 ; Porcentaje:  50.602870813397125
+Fallos:  5162 ; Porcentaje:  49.397129186602875
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (256, 37)
+Capa 2:  (64, 257)
+Capa 3:  (12, 65)
+Aciertos:  5882 ; Porcentaje:  56.28708133971292
+Fallos:  4568 ; Porcentaje:  43.71291866028708
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (256, 37)
+Capa 2:  (64, 257)
+Capa 3:  (12, 65)
+Aciertos:  7700 ; Porcentaje:  73.68421052631578
+Fallos:  2750 ; Porcentaje:  26.31578947368421
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (256, 37)
+Capa 2:  (64, 257)
+Capa 3:  (12, 65)
+Aciertos:  5690 ; Porcentaje:  54.44976076555024
+Fallos:  4760 ; Porcentaje:  45.55023923444976
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (256, 37)
+Capa 2:  (64, 257)
+Capa 3:  (12, 65)
+Aciertos:  7650 ; Porcentaje:  73.20574162679426
+Fallos:  2800 ; Porcentaje:  26.794258373205743
+'''
+max iter= 600
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (64, 37)
+Capa 2:  (32, 65)
+Capa 3:  (12, 33)
+Aciertos:  9108 ; Porcentaje:  87.1578947368421
+Fallos:  1342 ; Porcentaje:  12.842105263157894
+'''
+max iter= 1000
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (64, 37)
+Capa 2:  (32, 65)
+Capa 3:  (12, 33)
+Aciertos:  9109 ; Porcentaje:  87.16746411483254
+Fallos:  1341 ; Porcentaje:  12.832535885167465
+'''
+max iter= 200
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (64, 37)
+Capa 2:  (40, 65)
+Capa 3:  (12, 41)
+Aciertos:  7986 ; Porcentaje:  76.42105263157895
+Fallos:  2464 ; Porcentaje:  23.57894736842105
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (64, 37)
+Capa 2:  (38, 65)
+Capa 3:  (12, 39)
+Aciertos:  8364 ; Porcentaje:  80.03827751196172
+Fallos:  2086 ; Porcentaje:  19.961722488038276
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (66, 37)
+Capa 2:  (38, 67)
+Capa 3:  (12, 39)
+Aciertos:  8267 ; Porcentaje:  79.11004784688996
+Fallos:  2183 ; Porcentaje:  20.88995215311005
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (62, 37)
+Capa 2:  (38, 63)
+Capa 3:  (12, 39)
+Aciertos:  8204 ; Porcentaje:  78.50717703349282
+Fallos:  2246 ; Porcentaje:  21.492822966507177
+'''
+Entrenamiento de la red, se genero el modelo:
+Capa 1:  (64, 37)
+Capa 2:  (38, 65)
+Capa 3:  (12, 39)
+Aciertos:  9103 ; Porcentaje:  87.11004784688996
+Fallos:  1347 ; Porcentaje:  12.889952153110048
+'''
+Entrenamiento de la red, se genero el modelo:
+max iter= 200
+Capa 1:  (256, 37)
+Capa 2:  (64, 257)
+Capa 3:  (12, 65)
+Aciertos:  7488 ; Porcentaje:  71.65550239234449
+Fallos:  2962 ; Porcentaje:  28.3444976076555
+'''
+Entrenamiento de la red, se genero el modelo:
+max iter= 200
+Capa 1:  (256, 37)
+Capa 2:  (64, 257)
+Capa 3:  (12, 65)
+Aciertos:  7746 ; Porcentaje:  74.12440191387559
+Fallos:  2704 ; Porcentaje:  25.875598086124402
+'''
+Entrenamiento de la red, se genero el modelo:
+maxiter=400
+Capa 1:  (128, 37)
+Capa 2:  (64, 129)
+Capa 3:  (12, 65)
+Aciertos:  8676 ; Porcentaje:  83.02392344497608
+Fallos:  1774 ; Porcentaje:  16.976076555023923
+'''
+Entrenamiento de la red, se genero el modelo:
+maxiter=400
+Capa 1:  (100, 37)
+Capa 2:  (34, 101)
+Capa 3:  (12, 35)
+Aciertos:  8736 ; Porcentaje:  83.59808612440192
+Fallos:  1714 ; Porcentaje:  16.401913875598087
+'''
